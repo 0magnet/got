@@ -1,4 +1,4 @@
-# github.com/0magnet/bottle v0.0.0
+# github.com/0magnet/bottle v0.0.1-0.20261008142407-9dad3ecd3fe0
 ## explicit; go 1.24
 github.com/0magnet/bottle/vnet
 # github.com/stretchr/testify v1.12.1
