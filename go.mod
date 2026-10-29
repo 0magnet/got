@@ -3,7 +3,7 @@ module github.com/0magnet/got
 go 1.26.0
 
 require (
-	github.com/0magnet/bottle v0.0.1-0.20261013221653-12057b62ab20
+	github.com/0magnet/bottle v0.0.1-0.20261028202309-2b922f28f74e
 	github.com/stretchr/testify v1.12.1
 	golang.org/x/net v0.62.0
 )
